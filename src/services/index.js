@@ -1,0 +1,1 @@
+export { getCityAll } from "./modules/getCityAll"
